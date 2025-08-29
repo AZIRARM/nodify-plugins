@@ -1,4 +1,4 @@
-# jQuery 3.7.1 Plugin for Nodify
+# EPubJS Plugin for Nodify
 
 This plugin integrates **EPubJS** into your Nodify Headless CMS projects.
 
