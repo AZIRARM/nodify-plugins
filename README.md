@@ -7,24 +7,28 @@ This document presents an overview of the available plugins for **Nodify Headles
 ## Available Plugins
 
 - **jquery3.7.1**  
-  Plugin integrating **jQuery 3.7.1** for enhanced DOM manipulation and event handling.
+  Plugin integrating **jQuery 3.7.1** for enhanced DOM manipulation and event handling.  
   [Doc](jquery/README.md)
 
 - **feedbacks**  
-  Nodify plugin designed to manage user **feedbacks**, handling only HTML/JS content.
+  Nodify plugin designed to manage user **feedbacks**, handling only HTML/JS content.  
   [Doc](feedbacks/README.md)
 
 - **bootstrap5.0.2**  
-  Plugin providing **Bootstrap 5.0.2** framework integration for responsive UI components and styling.
+  Plugin providing **Bootstrap 5.0.2** framework integration for responsive UI components and styling.  
   [Doc](bootstrap/README.md)
 
 - **comments**  
-  Nodify plugin to enable **content comments**, supporting only HTML/JS content.
+  Nodify plugin to enable **content comments**, supporting only HTML/JS content.  
   [Doc](comments/README.md)
 
 - **clicks**  
-  Plugin that tracks **content clicks** within Nodify, handling only HTML/JS content.
+  Plugin that tracks **content clicks** within Nodify, handling only HTML/JS content.  
   [Doc](clicks/README.md)
+
+- **epubjs**  
+  Plugin integrating **epub.js** to enable rendering and navigation of **EPUB ebooks** directly within Nodify.  
+  [Doc](epubjs/README.md)
 
 ---
 
